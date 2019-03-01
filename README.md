@@ -1,16 +1,5 @@
-# cloud_firestore_support
+# Cloud Firestore for Flutter Example
 
-A new Flutter application.
+A project demonstrates that how you can use Cloud Firestore with Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<h3><b>Note:</b> Please set up Firebase project at [Firebase Console](https://console.firebase.google.com/) and add your Google Services JSON and Plist files to this project.</h3>
